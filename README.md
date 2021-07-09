@@ -3,7 +3,7 @@
 - 💼 Full Stack Developer
 - 🎓 Software Engineer
 
-![Gustavo Turra Perandré's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-tp&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-tp&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Gustavo Turra Perandré's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-tp&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-tp&layout=compact&theme=tokyonight&v=2.00)](https://github.com/anuraghazra/github-readme-stats)
 | :---: | :---: |
 
 ### Studying Now
