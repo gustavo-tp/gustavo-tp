@@ -1,6 +1,5 @@
 ### Hello, I'm Gutavo Turra Perandré! 👋
 
-- 🎈 22 Years Old
 - 💼 Full Stack Developer
 - 🎓 Software Engineer
 
